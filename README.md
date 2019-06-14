@@ -1,5 +1,9 @@
 # yolo
 
+## Usage
+
+`git yolo`
+
 ## The Alias
 
 The alias runs this command:
