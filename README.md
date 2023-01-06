@@ -11,7 +11,7 @@ The alias runs this command:
 ```sh
 git add -A && \
   git commit -am "`curl -s http://whatthecommit.com/index.txt `" && \
-  git push -f origin master
+  git push -f origin HEAD
 ```
 
 ## Installation
